@@ -1,0 +1,33 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-image: url('img/fajne\ tlo.png.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#kontener
+{
+    border: 5px solid rgba(223, 201, 73, 0.705);
+    width: 1900px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+/* gorna czesc kontenera */
+
+#gorna_czesc_kontenera
+{
+    height:113px ;
+    background-color: rgba(136, 136, 38, 0.39);
+    position: relative;
+}
+img.logo
+{
+border: 0;
+position: absolute;
+}
